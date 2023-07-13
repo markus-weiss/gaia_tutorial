@@ -124,11 +124,10 @@ MonoBehaviour:
   - m_typeOfWater: Deep Blue Ocean
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 0
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
+    m_postProcessProfileHDRP: {fileID: 0}
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
       serializedVersion: 2
@@ -294,11 +293,10 @@ MonoBehaviour:
   - m_typeOfWater: Clear Blue Ocean
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 1
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
+    m_postProcessProfileHDRP: {fileID: 0}
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
       serializedVersion: 2
@@ -464,11 +462,10 @@ MonoBehaviour:
   - m_typeOfWater: Standard Lake
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 1
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
+    m_postProcessProfileHDRP: {fileID: 0}
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
       serializedVersion: 2
@@ -634,11 +631,10 @@ MonoBehaviour:
   - m_typeOfWater: Standard Clear Lake
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 1
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
+    m_postProcessProfileHDRP: {fileID: 0}
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
       serializedVersion: 2
@@ -804,11 +800,10 @@ MonoBehaviour:
   - m_typeOfWater: Low Poly
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 1
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
+    m_postProcessProfileHDRP: {fileID: 0}
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
       serializedVersion: 2
